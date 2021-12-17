@@ -1,4 +1,4 @@
-## Welcome to Dhruv Narayan Raina
+## Welcome to Dhruv Narayan's Web Page
 
 ### Markdown
 
@@ -7,17 +7,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. And I
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# CSE student for lifetime
+## DATA SCIENCE 
+### Python developer
 
-- Bulleted
-- List
+- data
+- technology
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+
+
 
 
 ```
